@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Евгений!</h1>
+<h1 align="center">Привет👋 Меня зовут Евгений. Я frontend developer !</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="center">🛠 ТЕХНОЛОГИИ КОТОРЫЕ Я ИСПОЛЬЗУЮ 🛠</h3>
 
 ###
 <div align="center">
