@@ -20,12 +20,19 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
 </a>
 
+<a href="https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BA%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE-5ba398334">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+</a>
+
+
+
+
 </div>
 
 ###
 
 <div align="center">
-
+  
 ![](https://komarev.com/ghpvc/?username=eugKlim)
 
 </div>
