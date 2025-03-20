@@ -85,7 +85,7 @@
   <img alt="Photoshop" src="https://img.shields.io/badge/-PHOTOSHOP-0e8ec9?style=flat-square&logo=adobephotoshop&logoColor=white" height="25px"/>
 </div>
 
-
+❤️
 ###
 <!--
 **eugKlim/eugKlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
