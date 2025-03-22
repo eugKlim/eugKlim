@@ -14,6 +14,8 @@
   <img src="https://i.gifer.com/Yg6I.gif"  />
 </div>
 -->
+## Мой вклад ❤️
+- Участвую в проектах для здоровья сердца!
 
 <div align="center">
   <img src="assets/book.gif"  />
